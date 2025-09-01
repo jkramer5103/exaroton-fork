@@ -82,6 +82,9 @@ All you need to make calls to the API is the Authentication Token you can get
 from your account page. If you make server-specific calls, you'll need that
 servers ID, too.
 
+## Documentation
+
+For a comprehensive guide on all available features and how to use them, please refer to the [full documentation](docs.md).
 
 ## The boring stuff
 
